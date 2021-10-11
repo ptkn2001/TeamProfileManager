@@ -1,0 +1,23 @@
+{
+  "name": "teamprofilemanager",
+  "version": "1.0.0",
+  "description": "Create a team profile page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptkn2001/TeamProfileManager.git"
+  },
+  "author": "Derrick Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptkn2001/TeamProfileManager/issues"
+  },
+  "homepage": "https://github.com/ptkn2001/TeamProfileManager#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.2.5"
+  }
+}
